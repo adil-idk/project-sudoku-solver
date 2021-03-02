@@ -1,5 +1,7 @@
 # Sudoku Evolutionary Algorithm
 
+2018 Project (computations using few libraries, e.g. self made transpose function rather than numpy.transpose)
+
 The program `sudoky_solver.py` is an implementation of an evolutionary algorithm to solve sudoky puzzles.
 
 ## Input Sudoku Puzzle
